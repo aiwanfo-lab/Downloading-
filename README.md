@@ -1,6 +1,6 @@
 ---
 title: "How to Download Instagram Videos – Easy & Free"
-author: "Your Name"
+author: "osae"
 date: 2025-02-07
 description: "Learn how to download Instagram videos, reels, stories, and highlights easily. Save media to your device in just a few clicks!"
 keywords: 
